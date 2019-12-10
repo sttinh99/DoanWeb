@@ -1,0 +1,56 @@
+*{padding: 0;margin: 0;}
+body{
+    width: 100%;
+    height: 100%;
+}
+.shop-name_list-item{
+    width: 100%; 
+    height: 80px;
+    border: 2px solid black;
+}
+.shop-name_list-item .container{
+    line-height: 80px;
+    width: 50%;
+    height: 100%;
+    display: flex;
+}
+.shop-name_list-item .container .logo{
+    width: 15%;
+}
+.container .logo img{}
+.shop-name_list-item .container .list{
+   
+    width: 50%;
+}
+.shop-name_list-item .container .shop-cart i:after{
+    content: "(0)";
+    font-size: 15px;
+}
+.container .list .list-item{
+    height: 100%;
+}
+.container .list .list-item:after{
+    content: "";
+    width: 100%;
+    display: inline-block;
+}
+.container .list .list-item li{
+    margin-left: 5px;
+    display: inline-block;
+}
+.container .list .list-item li::after{
+    content: "/";
+}
+.container .list .list-item li a{
+    color: black;
+    font-weight: bold!important;
+    text-decoration: none;
+    font-size: 20px;
+}
+.shop-name_list-item .container .admin{
+    text-decoration: none;
+    text-align: end;
+    width: 50%;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium';
+}

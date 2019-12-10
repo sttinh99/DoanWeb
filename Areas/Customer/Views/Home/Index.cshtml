@@ -1,0 +1,147 @@
+﻿@model List<TestCase.Models.Products>
+@{
+    ViewData["Title"] = "ShowHome";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<br />
+<br />
+<div class="content" style="height: 500px">
+</div>
+<article>
+    <section class="introduce">
+        <div class="_2col">
+            <div class="col-left">
+                <div class="block">
+                    <h1>This Season</h1>
+                    <h5>BE READY TO CHANGE</h5>
+                    <a asp-area="Customer" asp-controller="Product" asp-action="Index"><button>Shop Now</button></a>
+                </div>
+            </div>
+            <div class="col-right"></div>
+        </div>
+    </section>
+    <div class="container">
+        <div class="article_1">
+            <div class="_layer" style="height: 80px;"></div>
+            <div class="text-center top">
+                <h1>New arrivals</h1>
+            </div>
+            <div class="_layer"></div>
+            <div class="text-center center">
+                <h4>Shoes Model</h4>
+            </div>
+            <div class="_layer" style="height: 80px;"></div>
+        </div>
+        <div class="article_2">
+            <div class="block_3col">
+                <a asp-area="Customer" asp-controller="Product" asp-action="Index" class="block_1col">
+                    <div class="picture">
+                        <img src="~/images1/nike_air1.jpg" alt="">
+                    </div>
+                    <div class="text_block">
+                        <h6>Air Max</h6>
+                        <h5>NIKE</h5>
+                        <div class="line">
+                            <hr>
+                            <img src="~/images1/shopping-bag.png" alt="">
+                        </div>
+                    </div>
+                    <div class="price"><span>100$</span></div>
+                </a>
+                <a asp-area="Customer" asp-controller="Product" asp-action="Index" class="block_1col">
+                    <div class="picture">
+                        <img src="~/images1/nike_air_force1.jpg" alt="">
+                    </div>
+                    <div class="text_block">
+                        <h6>Air Force</h6>
+                        <h5>NIKE</h5>
+                        <div class="line">
+                            <hr>
+                            <img src="~/images1/shopping-bag.png" alt="">
+                        </div>
+                    </div>
+                    <div class="price"><span>100$</span></div>
+                </a>
+                <a asp-area="Customer" asp-controller="Product" asp-action="Index" class="block_1col">
+                    <div class="picture">
+                        <img src="~/images1/jordan1.jpg" alt="">
+                    </div>
+                    <div class="text_block">
+                        <h6>Air Jordan</h6>
+                        <h5>NIKE</h5>
+                        <div class="line">
+                            <hr>
+                            <img src="~/images1/shopping-bag.png" alt="">
+                        </div>
+                    </div>
+                    <div class="price"><span>100$</span></div>
+                </a>
+            </div>
+        </div>
+    </div>
+    <section class="introduce1">
+        <div class="_2col">
+            <div class="col-right"></div>
+            <div class="col-left">
+                <div class="block">
+                    <h1>This Season</h1>
+                    <h5>BE READY TO CHANGE</h5>
+                    <a asp-area="Customer" asp-controller="Product" asp-action="Index"><button>Shop Now</button></a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="container">
+        <div class="article_1">
+            <div class="_layer" style="height: 80px;"></div>
+            <div class="text-center top">
+                <h1>TRENDING NOW</h1>
+            </div>
+            <div class="_layer" style="height: 80px;"></div>
+        </div>
+        <div class="article_2">
+            <div class="block_5col">
+                <div class="row">
+                    @foreach (var product in Model)
+                    {
+                    <div class="col-3">
+                        <div class="card mb-2" style="width: 250px">
+                            <div class="card-header">
+                                <h4 class="my-0 font-weight-normal">
+                                    <label style="font-size:23px;color:steelblue;">@product.Name</label>
+                                </h4>
+                            </div>
+
+                            <img class="card-img-top" style="height:250px;" src="@product.Image" alt="Card Image" />
+                            <div class="card-body">
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <div class="btn-group">
+                                        <label style="font-size:20px; color:#a51313"><b>$@product.Price</b>/@product.ProductTypes.Name</label>
+                                    </div>
+                                    <a asp-action="Details" asp-controller="Home" class="btn btn-success pull-right btn-outline-info" asp-route-id="@product.Id"> View Details</a>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    }
+                </div>
+             </div>
+    </div>
+</article>
+<div class="trademark">
+    <div class="block_trademark">
+        <div class="container">
+            <div class="_1col">
+                <span>ADIDAS</span>
+            </div>
+            <div class="_1col">
+                <span>BITI'S</span>
+            </div>
+            <div class="_1col">
+                <span>NIKE</span>
+            </div>
+        </div>
+    </div>
+</div>

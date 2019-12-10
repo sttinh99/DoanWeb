@@ -1,0 +1,20 @@
+﻿@model TestCase.Models.ViewModel.ShoppingCartViewModel
+@{
+    ViewData["Title"] = "AppointmentConfirmation";
+}
+    <div class="container">
+        <br />
+        <h2 class="text-info">Appointment Confirmation</h2>
+        <div class="form-text">
+            Your order has been submitted. Please come to my our shop to take your shoes. Please feel free to contact us anytime you have any questions.
+        </div>
+        <br />
+
+        <partial name="~/Views/Shared/_AppointmentCustomerDetails.cshtml" model="Model.Appointments" />
+        <br />
+
+        <partial name="~/Views/Shared/_AppointmentProductDetails.cshtml" model="Model.Products" />
+
+        <a asp-area="Customer" asp-controller="Product" asp-action="Index" class="btn btn-success"> Back to Products</a>
+    </div>
+

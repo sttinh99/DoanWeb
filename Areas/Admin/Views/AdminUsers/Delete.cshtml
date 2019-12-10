@@ -1,0 +1,74 @@
+﻿
+@model TestCase.Models.UsersGuests
+@{
+    ViewData["Title"] = "Edit";
+}
+<style>
+    .p-5.border.rounded {
+        font-size: 18px;
+        color: black;
+    }
+</style>
+<br />
+<h2 class="text-info">Edit Admin User</h2>
+
+<form method="post" asp-action="Delete" style="background-color:#5e7edcab">
+    <div class="p-5 border rounded">
+        <input type="hidden" asp-for="Id" />
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Name">Name:</label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Name" readonly class="form-control" />
+            </div>
+
+        </div>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Email">Email:</label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Email" readonly class="form-control" />
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Phone">Phone:</label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Phone" readonly class="form-control" />
+            </div>
+
+        </div>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="UserName">UserName:</label>
+            </div>
+            <div class="col-5">
+                <input asp-for="UserName" readonly class="form-control" />
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Password">Password:</label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Password" readonly class="form-control" />
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Role">Role:</label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Role" readonly class="form-control" />
+            </div>
+        </div>
+        <br />
+        <div class="form-group">
+            <input type="submit" class="btn btn-danger" value="Delete" />
+            <a asp-action="Index" class="btn btn-success">Back to List</a>
+        </div>
+    </div>
+</form>

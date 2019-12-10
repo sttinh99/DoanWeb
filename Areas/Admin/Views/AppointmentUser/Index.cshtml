@@ -1,0 +1,74 @@
+﻿
+@model IEnumerable<TestCase.Models.Appointments>
+@{
+    ViewData["Title"] = "Index";
+    // Layout = "~/Admin/Views/Shared/_LayOutAd.cshtml";
+}
+
+<br />
+<br />
+
+<div class="row">
+    <div class="col-6">
+        <h2 class="text-info"> Product List</h2>
+    </div>
+</div>
+
+<br />
+<div>
+    <table class="table table-primary border">
+        <tr class="table-info">
+            <th>
+                @Html.DisplayNameFor(m => m.AppointmentDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(m => m.CustomerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(m => m.CustomerPhoneNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(m => m.CustomerEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(m => m.isConfirmed)
+            </th>
+            <th>
+                @Html.DisplayNameFor(m => m.Recceipt)
+            </th>
+            <th></th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(m => item.AppointmentDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(m => item.CustomerEmail)
+                </td>
+                <td>
+                    @Html.DisplayFor(m => item.CustomerName)
+                </td>
+                <td>
+                    @Html.DisplayFor(m => item.CustomerPhoneNumber)
+                </td>
+                <td>
+                    @Html.DisplayFor(m => item.isConfirmed)
+                </td>
+                <td>
+                    @Html.DisplayFor(m => item.Recceipt)
+                </td>
+                <td>
+                    <partial name="_TableButtonPartial" model="item.Id" />
+                </td>
+            </tr>
+
+        }
+    </table>
+</div>
+
+
+

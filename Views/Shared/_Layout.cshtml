@@ -1,0 +1,189 @@
+﻿@using Microsoft.AspNetCore.Http
+@using  TestCase.Extensions
+@using TestCase.Utility
+
+@inject IHttpContextAccessor HttpContextAccessor
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - TestCase</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/css1/contact.css">
+    <link href="~/css1/bootstrap.css" rel="stylesheet" />
+    <link href="~/css1/main.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css" integrity="sha384-O8whS3fhG2OnA5Kas0Y9l3cfpmYjapjI0E4theH4iuMD+pLhbf6JI0jIMfYcK3yZ" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/css/jquery-ui.css" />
+    <link rel="stylesheet" href="~/css/jquery.timepicker.css" />
+    <link href="~/css1/style.css" rel="stylesheet" />
+    <link href="~/css1/index.css" rel="stylesheet" />
+</head>
+<body>
+    <header class="header-section">
+        <div class="header-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-2 text-center text-lg-left">
+                        <!-- logo -->
+                        <a href="#" class="site-logo">
+                            <img src="~/css1/images/logo2.PNG" />
+                        </a>
+                    </div>
+                    <div class="col-xl-6 col-lg-5">
+                        <form class="header-search-form">
+                            <input type="text" placeholder="Search on shoptqt ....">
+                            <button><i class="fas fa-search"></i></button>
+                        </form>
+                    </div>
+                    <div class="col-xl-4 col-lg-5">
+                        <div class="user-panel">
+                            <div class="up-item">
+                                <ul>
+                                    <a asp-area="Guest" asp-controller="Guest" asp-action="Login1">
+                                        <i class="far fa-user" style="padding-right: 30px"></i>
+                                    </a>
+                                    <li>
+                                        <a asp-area="Guest" asp-controller="Guest" asp-action="Login1">
+                                            Log out
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a asp-area="Customer" asp-controller="Guest" asp-action="AccountInformation1">
+                                            Info
+                                        </a>
+                                    </li>
+                                </ul>
+                                @*<div class="up-item">
+                    <div class="shopping-card">
+                        <i class="fas fa-shopping-cart"></i>
+                        <span>0</span>
+                    </div>
+                    <a href="#">Shopping Cart</a>
+                </div>*@
+
+                            </div>
+                        </div>
+                    </div>
+            </div>
+        </div>
+        <nav class="main-navbar">
+            <div class="container">
+                <!-- menu -->
+                <ul class="main-menu">
+                    <li><a asp-area="Customer" asp-controller="Home" asp-action="Index">Home</a></li>
+                    <li><a asp-area="Customer" asp-controller="Product" asp-action="Index">Product</a></li>
+                    <li>
+                        <a asp-area="Customer" asp-controller="Product" asp-action="Index">
+                            New Products
+                            <span class="new">New</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a asp-area="Customer" asp-controller="Contact" asp-action="Index">Contact</a>
+                        @*<ul class="sub-menu">
+                <li><a href="./product.html">Product Page</a></li>
+                <li><a href="./category.html">Category Page</a></li>
+                <li><a href="./cart.html">Cart Page</a></li>
+                <li><a href="./checkout.html">Checkout Page</a></li>
+                <li><a href="./contact.html">Contact Page</a></li>
+            </ul>*@
+                    </li>
+                    <li><a asp-area="Customer" asp-controller="Blog" asp-action="Index">Blog</a></li>
+                    @if (HttpContextAccessor.HttpContext.Session.Get<List<int>>("ssShoppingCart") != null)
+                    {
+                        <li style="color:white">
+                            <a asp-area="Customer" asp-controller="ShoppingCart" asp-action="Index" class="nav-link">
+                                <i class="fas fa-shopping-cart"></i> &nbsp;
+                                @{
+                                    var count = HttpContextAccessor.HttpContext.Session.Get<List<int>>("ssShoppingCart").Count;
+                                }
+                                (@count)
+                            </a>
+
+                        </li>
+
+                    }
+                    else
+                    {
+                        <li style="color:white">
+                            <a asp-area="Customer" asp-controller="ShoppingCart" asp-action="Index" class="nav-link">
+                                <i class="fas fa-shopping-cart"></i> &nbsp;
+
+                                (0)
+                            </a>
+
+                        </li>
+                    }
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <!-- Header section end -->
+    <div class="body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <div class="footer">
+                <div class="in_footer">
+                    <div class="_4col">
+                        <div class="_col1">
+                            <h3>Feliciano</h3>
+                            <b>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</b>
+                            <div class="icon">
+                                <a href="https://www.facebook.com/mai.motminh.3367"><img src="~/images1/facebook.png" alt=""></a>
+                                <a href="https://twitter.com"><img src="images/twitter.png" alt=""></a>
+                                <a href="https://www.instagram.com/sttinh99/?hl=vi"><img src="~/images1/instagram.png" alt=""></a>
+                            </div>
+                        </div>
+                        <div class="_col2">
+                            <h3>Open Hours</h3>
+                            <div class="_2col">
+                                <div class="col">
+                                    <h6>Monday</h6>
+                                    <h6>Tuesday</h6>
+                                    <h6>Wednesday</h6>
+                                    <h6>Thursday</h6>
+                                    <h6>Friday</h6>
+                                    <h6>Saturday</h6>
+                                    <h6>Sunday</h6>
+                                </div>
+                                <div class="coll">
+                                    <h6>8:00-21:00</h6>
+                                    <h6>8:00-21:00</h6>
+                                    <h6>8:00-21:00</h6>
+                                    <h6>8:00-21:00</h6>
+                                    <h6>8:00-21:00</h6>
+                                    <h6>8:00-21:00</h6>
+                                    <h6>8:00-21:00</h6>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="_col3">
+                            <h3>Instagram</h3>
+                            <img src="~/images1/jordan1.jpg" alt="">
+                        </div>
+                        <div class="_col4">
+                            <h3>Newsletter</h3>
+                            <b>Far far away, behind the word mountains, far from the countries.</b>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <script src="~/js1/index.js"></script>
+    <script type="text/javascript" src="js1/index.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/jquery-ui.js" asp-append-version="true"></script>
+    <script src="~/js/jquery.timepicker.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

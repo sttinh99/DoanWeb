@@ -1,0 +1,93 @@
+﻿@model TestCase.Models.ViewModel.ProductsViewModel
+@using TestCase.Extensions
+
+@{
+    ViewData["Title"] = "Edit";
+}
+<style>
+    .p-5.border.rounded.row
+    {
+        font-size: 18px;
+        color: black;
+    }
+</style>
+<br />
+<h2 class="text-info">Edit Product</h2>
+
+<form method="post" enctype="multipart/form-data" style="background-color:#5e7edcab">
+    <div class="p-5 border rounded row">
+        <input hidden asp-for="Products.Id" />
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="col-8">
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Products.Name">Name:</label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Products.Name" class="form-control" />
+                </div>
+                <span asp-validation-for="Products.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Products.Price">Price:</label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Products.Price" class="form-control" />
+                </div>
+                <span asp-validation-for="Products.Price" class="text-danger"></span>
+            </div>
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Products.Image">Image:</label>
+                </div>
+                <div class="col-8">
+                    <input type="file" name="files">
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="ProductTypes">ProductTypes:</label>
+                </div>
+                <div class="col-8">
+                    <select asp-for="@Model.Products.ProductTypeId" asp-items="Model.ProductTypes.ToSelectListItem(Model.Products.ProductTypeId)" class="form-control"></select>
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Products.ShadeColor">ShadeColor:</label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Products.ShadeColor" class="form-control" />
+                </div>
+                <span asp-validation-for="Products.ShadeColor" class="text-danger"></span>
+            </div>
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Products.Available">Available:</label>
+                </div>
+                <div class="col-8">
+                    <input type="checkbox" asp-for="Products.Available" />
+                </div>
+            </div>
+        </div>
+        <div class="col-1">
+
+        </div>
+        <div class="col-3">
+                <img src="@Model.Products.Image"width="255px" style="border-radius:5px; border:1px solid #bbb9b9;" height="255px">
+        </div>
+
+
+        <br />
+        <div class="form-group">
+            <input type="submit" class="btn btn-primary" value="Update" />
+
+            <a asp-action="Index" class="btn btn-success">Back to List</a>
+        </div>
+    </div>
+</form>
+
+@*@section Scripts{
+    @{ await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}*@

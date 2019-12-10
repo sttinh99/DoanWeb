@@ -1,0 +1,410 @@
+*{padding: 0;margin: 0;}
+body{
+    width: 100%;
+    height: 100%;
+}
+.shop-name_list-item{
+    width: 100%; 
+    height: 80px;
+    border: 2px solid black;
+}
+.shop-name_list-item .container{
+    line-height: 80px;
+    width: 50%;
+    height: 100%;
+    display: flex;
+}
+.shop-name_list-item .container .logo{
+    width: 20%;
+}
+.container .logo img{}
+.shop-name_list-item .container .list{
+   
+    width: 60%;
+}
+.shop-name_list-item .container .shop-cart i:after{
+    content: "(0)";
+    font-size: 15px;
+}
+.container .list .list-item{
+    height: 100%;
+    text-align: justify;
+}
+.container .list .list-item:after{
+    content: "";
+    width: 100%;
+    display: inline-block;
+}
+.container .list .list-item li{
+    display: inline-block;
+}
+.container .list .list-item li a{
+    color: black;
+    font-weight: 300!important;
+    text-decoration: none;
+    font-size: 20px;
+}
+.shop-name_list-item .container .shop-cart{
+    width: 10%;
+    text-align: center;
+}
+.shop-name_list-item .container .shop-cart i{
+    text-decoration: none;
+    font-size: 30px;
+    color:rgb(255, 115, 0);
+    cursor: pointer;
+}
+.shop-name_list-item .container a.login{
+    text-decoration: none;
+    width: 10%;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium';
+}
+.shop-name_list-item .gio-hang{
+    width:356px;
+    height: 600px;
+    position: absolute;
+    top: -350px;
+    right: 445px;
+    background-color: #c1202069;
+    transition: 0.4s;
+    opacity: 0;
+    visibility: hidden;
+}
+.gio-hang.ra {
+    top: 79px;
+    opacity: 1;
+    visibility: visible;
+}
+.gio-hang .top{
+    display: flex;
+    height: 50px;
+}
+.gio-hang .top ._1{
+    width: 40%;
+    font-size: 30px;
+    line-height: 62px;
+}
+.gio-hang .top ._1::after{
+    margin-left: 70%;
+    content: "|";
+}
+.gio-hang .top ._2{
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 67px;
+}
+.gio-hang > .bottom{
+    width: 95%;
+    height: 450px;
+    margin: auto;
+    background-color: #0076804d;
+}
+.gio-hang ._12{
+    display: flex;
+    height: 100%;
+}
+.gio-hang .check{
+    margin-top: 10px;
+}
+.gio-hang .check a{
+    text-decoration: none;
+}
+.gio-hang .check button{
+    background-color: #c3ff003d;
+}
+/*END_HEADER*/
+.content{
+    background-image:url(images/background.jpg);
+    width: 100%;
+    height: auto;
+    background-size:auto;
+}
+.content .block {
+    position: absolute;
+    top: 120px;
+    left: 0;
+    width: 50%;
+    height: 90%;
+}
+.content .block .text1{
+    width: 70%;
+    font-weight: bold;
+    margin: auto;
+}
+.content .block .text1 p{
+    font-size: 20px;
+}
+.content .block .text2 h1{
+    width: 70%;
+    margin: auto;
+}
+.content .block .text2 h1{
+    font-size: 60px;
+    font-weight: bold;
+    font-family: "Source Serif Pro";
+}
+
+.content .block .text3{
+    width: 70%;
+    margin: auto;
+}
+.content .block .button{
+    width: 70%;
+    margin: auto;
+}
+.content .block button{
+    font-family: segoe ui;
+    font-size: 20px;
+    width: 170px;
+    height: 60px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(38, 230, 120);
+}
+/*END CONTENT*/
+.introduce{
+    width: 100%;
+    height: 100%;
+    padding-top: 40px;
+}
+.introduce ._2col{
+    display: flex;
+}
+.introduce ._2col .col-left{
+    margin-right: 10px;
+    width: 50%;
+    background-image:url(images/background-intro.jpg);
+    background-size: cover;
+    text-align: center;
+}
+.introduce ._2col .col-left .block{
+    margin-top: 420px;
+}
+.introduce ._2col .col-left .block h1{
+    font-size: 70px;
+    font-family:"Source Serif Pro";
+    color: yellow;
+}
+.introduce ._2col .col-left .block h5{
+    padding-bottom: 40px;
+    color: yellow;
+}
+
+.introduce ._2col .col-left .block button{
+    background-color: violet;
+    border: none;
+    width: 200px;
+    height: 60px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+.introduce ._2col .col-right{
+    margin-right: 10px;
+    width: 950px;
+    height: 950px;
+    background-image:url(images/shoes1.jpg);
+    background-size: cover;
+    width: 50%;
+}
+/*END INTRODUCE*/
+._layer{height: 20px;}
+.container .top h1{
+    font-family:'Cormorant Garamond'!important;
+}
+.container .center h4{
+    font-weight: 300!important;
+}
+.article_2{}
+.article_2 .block_3col{
+    display: flex;
+    
+}
+.article_2 .block_3col a.block_1col{
+    width:192px;
+    text-decoration: none;
+    margin: auto;
+    color: rgb(68, 68, 68);
+}
+.block_1col .picture{
+    width: 192px;
+    height: 192px;
+}
+.block_1col .picture img{
+    width: 192px;
+    height: 192px;
+}
+.block_1col .text_block{
+    width: 192px;
+}
+.block_1col .text_block .line{
+    display: flex;
+}
+.block_1col .price span{
+    color: black;
+    font-weight: bold;
+}
+.block_1col .text_block .line hr{width: 88%;border: 0.5px solid black;}
+.block_1col .text_block .line img{width: 10%;margin:auto;}
+/*~~~~~~~~~~~~~~~~~~~~~*/
+.introduce1{
+    width: 100%;
+    height: 100%;
+    padding-top: 40px;
+}
+.introduce1 ._2col{
+    display: flex;
+}
+.introduce1 ._2col .col-left{
+    width: 50%;
+    background-image:url(images/background-intro1.jpg);
+    background-size: cover;
+    text-align: center;
+}
+.introduce1 ._2col .col-left .block{
+    margin-top: 420px;
+}
+.introduce1 ._2col .col-left .block h1{
+    font-size: 70px;
+    font-family:"Source Serif Pro";
+    color: yellow;
+}
+.introduce1 ._2col .col-left .block h5{
+    padding-bottom: 40px;
+    color: yellow;
+}
+
+.introduce1 ._2col .col-left .block button{
+    background-color: blue;
+    border: none;
+    width: 200px;
+    height: 60px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+.introduce1 ._2col .col-right{
+    margin-right: 10px;
+    width: 950px;
+    height: 950px;
+    background-image:url(images/shoe2.jpg);
+    background-size: cover;
+    width: 50%;
+}
+/*~~~~~~~~~~~*/
+._layer{height: 20px;}
+.container .top h1{
+    font-family:'Cormorant Garamond'!important;
+}
+.container .center h4{
+    font-weight: 300!important;
+}
+.article_2{}
+.article_2 .block_5col{
+    display: flex; 
+    flex-wrap: wrap;
+}
+.article_2 .block_5col a.block_1col{
+    width:192px;
+    text-decoration: none;
+    margin: auto;
+    color: rgb(68, 68, 68);
+    margin-top: 30px;
+}
+.block_1col .picture{
+    width: 192px;
+    height: 192px;
+}
+.block_1col .picture img{
+    width: 192px;
+    height: 192px;
+}
+.block_1col .text_block{
+    width: 192px;
+}
+.block_1col .text_block .line{
+    display: flex;
+}
+.block_1col .price span{
+    color: black;
+    font-weight: bold;
+}
+.block_1col .text_block .line hr{width: 88%;border: 0.5px solid black;}
+.block_1col .text_block .line img{width: 10%;margin:auto;}
+/*~~~~~~~~~~~~~~~~~~~*/
+.trademark{
+    margin-top: 150px;
+    width: 100%;}
+.trademark .block_trademark{
+    width: 100%;
+    height: 150px;
+    background-color: rgb(211, 211, 211);    
+}
+.trademark .block_trademark .container{
+    line-height: 150px;
+    display: flex;
+    margin: auto;
+}
+.trademark .block_trademark .container ._1col{
+    text-align: center;
+    width: 33.33%;
+}
+/*Footer*/
+.footer{}
+.footer .in_footer{
+    border-top:5px solid red;
+    background-color: #363636;
+    height: 400px;
+    background: white(0, 0, 0, 0.884);
+}
+.footer .in_footer ._4col{
+    padding-top: 100px;
+    width: 1115px;
+    margin: auto;
+    display: flex;
+}
+.footer .in_footer ._4col ._col1{
+    width: 25%;
+}
+._4col ._col1 h3{}
+._4col ._col1 p{}
+._4col ._col1 .icon{
+}
+._4col ._col1 .icon img{
+    margin-top: 40px;
+    margin-right:10px;
+}
+.footer .in_footer ._4col ._col2{
+    width: 25%;
+}
+.footer .in_footer ._4col ._col2 ._2col{
+    display: flex;
+}
+.in_footer ._4col ._col2 ._2col .col{ 
+    width: 50%;
+    color: white;}
+.in_footer ._4col ._col2 ._2col .coll{
+    margin-left:0px;
+    width: 50%;
+    color: white}
+.footer .in_footer ._4col ._col3{
+    width: 25%;
+}
+.footer .in_footer ._4col ._col3 img{
+    height: 190px;
+}
+.footer .in_footer ._4col ._col4{
+    width: 25%;
+}
+.footer h3{
+    color: white;
+    margin-bottom: 35px;
+}
+.footer b{
+    color: white;
+}
+/*~~~~~~~~~~~~~~~~~~~*/
+a{
+    text-decoration: none;
+}

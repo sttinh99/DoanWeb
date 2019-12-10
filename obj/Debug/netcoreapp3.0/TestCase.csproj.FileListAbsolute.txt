@@ -1,0 +1,867 @@
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\TestCase.StaticWebAssets.xml
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\TestCase.exe
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\TestCase.deps.json
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\TestCase.runtimeconfig.json
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\TestCase.runtimeconfig.dev.json
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\TestCase.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\TestCase.pdb
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\TestCase.Views.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\TestCase.Views.pdb
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.csprojAssemblyReference.cache
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\staticwebassets\TestCase.StaticWebAssets.Manifest.cache
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\staticwebassets\TestCase.StaticWebAssets.xml
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.RazorAssemblyInfo.cache
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.RazorAssemblyInfo.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.AssemblyInfoInputs.cache
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.AssemblyInfo.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.TagHelpers.input.cache
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.TagHelpers.output.cache
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.RazorCoreGenerate.cache
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.RazorTargetAssemblyInfo.cache
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.RazorTargetAssemblyInfo.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.Views.pdb
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.csproj.CopyComplete
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.dll
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.pdb
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Test\TestCase\TestCase\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.MvcApplicationPartsAssemblyInfo.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.MvcApplicationPartsAssemblyInfo.cache
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\ProductTypes\Index.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\ProductTypes\Create.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_TableButtonPartial.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\ProductTypes\Edit.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\ProductTypes\Delete.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Products\Edit.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Products\Delete.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Home\Details.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\ShoppingCart\Index.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Guest\Views\Guest\Login1.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AdminUsers\Index.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AdminUsers\Edit.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AdminUsers\Delete.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AdminUsers\Create.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Guest\Login1.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Shared\_UserGuest.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Guest\RegisterSuccessfull1.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Guest\Register.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Shared\_RegisterUser.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Shared\_AccountInformation.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Guest\AccountInformation1.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Product\Index.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Product\Details.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Contact\Index.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_AppointmentProductDetails.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_AppointmentCustomerDetails.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\ShoppingCart\AppointmentConfirmation.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AppointmentUser\Index.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AppointmentUser\Edit.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AppointmentUser\Delete.cshtml.g.cs
+C:\Test\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Guest\Edit.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\TestCase.StaticWebAssets.xml
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\TestCase.exe
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\TestCase.deps.json
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\TestCase.runtimeconfig.json
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\TestCase.runtimeconfig.dev.json
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\TestCase.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\TestCase.pdb
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\TestCase.Views.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\TestCase.Views.pdb
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.csprojAssemblyReference.cache
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\staticwebassets\TestCase.StaticWebAssets.Manifest.cache
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\staticwebassets\TestCase.StaticWebAssets.xml
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.RazorAssemblyInfo.cache
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.RazorAssemblyInfo.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.AssemblyInfoInputs.cache
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.AssemblyInfo.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.TagHelpers.input.cache
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.TagHelpers.output.cache
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.RazorCoreGenerate.cache
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AdminUsers\Create.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AdminUsers\Delete.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AdminUsers\Edit.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AdminUsers\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AppointmentUser\Delete.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AppointmentUser\Edit.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AppointmentUser\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Products\Delete.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Products\Edit.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\ProductTypes\Create.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\ProductTypes\Delete.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\ProductTypes\Edit.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\ProductTypes\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Contact\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Guest\AccountInformation1.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Guest\Edit.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Guest\Login1.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Guest\Register.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Guest\RegisterSuccessfull1.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Home\Details.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Product\Details.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Product\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Shared\_AccountInformation.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Shared\_RegisterUser.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Shared\_UserGuest.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\ShoppingCart\AppointmentConfirmation.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\ShoppingCart\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Guest\Views\Guest\Login1.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_AppointmentCustomerDetails.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_AppointmentProductDetails.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_TableButtonPartial.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.RazorTargetAssemblyInfo.cache
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.RazorTargetAssemblyInfo.cs
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.Views.pdb
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.csproj.CopyComplete
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.dll
+C:\Users\Quang Tinh\Downloads\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.pdb
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\TestCase.StaticWebAssets.xml
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\TestCase.exe
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\TestCase.deps.json
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\TestCase.runtimeconfig.json
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\TestCase.runtimeconfig.dev.json
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\TestCase.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\TestCase.pdb
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\TestCase.Views.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\TestCase.Views.pdb
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.csprojAssemblyReference.cache
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\staticwebassets\TestCase.StaticWebAssets.Manifest.cache
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\staticwebassets\TestCase.StaticWebAssets.xml
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.RazorAssemblyInfo.cache
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.RazorAssemblyInfo.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.AssemblyInfoInputs.cache
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.AssemblyInfo.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.TagHelpers.input.cache
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.TagHelpers.output.cache
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.RazorCoreGenerate.cache
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AdminUsers\Create.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AdminUsers\Delete.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AdminUsers\Edit.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AdminUsers\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AppointmentUser\Delete.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AppointmentUser\Edit.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AppointmentUser\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Products\Delete.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Products\Edit.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\ProductTypes\Create.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\ProductTypes\Delete.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\ProductTypes\Edit.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\ProductTypes\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Contact\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Guest\AccountInformation1.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Guest\Edit.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Guest\Login1.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Guest\Register.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Guest\RegisterSuccessfull1.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Home\Details.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Product\Details.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Product\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Shared\_AccountInformation.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Shared\_RegisterUser.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Shared\_UserGuest.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\ShoppingCart\AppointmentConfirmation.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\ShoppingCart\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Guest\Views\Guest\Login1.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_AppointmentCustomerDetails.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_AppointmentProductDetails.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_TableButtonPartial.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.RazorTargetAssemblyInfo.cache
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.RazorTargetAssemblyInfo.cs
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.Views.pdb
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.csproj.CopyComplete
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.dll
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\TestCase.pdb
+C:\Users\Quang Tinh\Desktop\TestCase\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Info\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\TestCase.StaticWebAssets.xml
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\TestCase.exe
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\TestCase.deps.json
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\TestCase.runtimeconfig.json
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\TestCase.runtimeconfig.dev.json
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\TestCase.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\TestCase.pdb
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\TestCase.Views.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\TestCase.Views.pdb
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\TestCase.csprojAssemblyReference.cache
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\staticwebassets\TestCase.StaticWebAssets.Manifest.cache
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\staticwebassets\TestCase.StaticWebAssets.xml
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\TestCase.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\TestCase.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\TestCase.RazorAssemblyInfo.cache
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\TestCase.RazorAssemblyInfo.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\TestCase.AssemblyInfoInputs.cache
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\TestCase.AssemblyInfo.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\TestCase.TagHelpers.input.cache
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\TestCase.TagHelpers.output.cache
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\TestCase.RazorCoreGenerate.cache
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AdminUsers\Create.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AdminUsers\Delete.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AdminUsers\Edit.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AdminUsers\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AppointmentUser\Delete.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AppointmentUser\Edit.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AppointmentUser\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Products\Delete.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Products\Edit.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\ProductTypes\Create.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\ProductTypes\Delete.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\ProductTypes\Edit.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\ProductTypes\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Contact\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Guest\AccountInformation1.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Guest\Edit.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Guest\Login1.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Guest\Register.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Guest\RegisterSuccessfull1.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Home\Details.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Info\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Product\Details.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Product\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Shared\_AccountInformation.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Shared\_RegisterUser.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Shared\_UserGuest.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\ShoppingCart\AppointmentConfirmation.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\ShoppingCart\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Guest\Views\Guest\Login1.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_AppointmentCustomerDetails.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_AppointmentProductDetails.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_TableButtonPartial.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\TestCase.RazorTargetAssemblyInfo.cache
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\TestCase.RazorTargetAssemblyInfo.cs
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\TestCase.Views.pdb
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\TestCase.csproj.CopyComplete
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\TestCase.dll
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\TestCase.pdb
+C:\Users\Quang Tinh\Desktop\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Blog\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\TestCase.StaticWebAssets.xml
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\TestCase.exe
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\TestCase.deps.json
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\TestCase.runtimeconfig.json
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\TestCase.runtimeconfig.dev.json
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\TestCase.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\TestCase.pdb
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\TestCase.Views.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\TestCase.Views.pdb
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\TestCase.csprojAssemblyReference.cache
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\staticwebassets\TestCase.StaticWebAssets.Manifest.cache
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\staticwebassets\TestCase.StaticWebAssets.xml
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\TestCase.RazorAssemblyInfo.cache
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\TestCase.RazorAssemblyInfo.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\TestCase.AssemblyInfoInputs.cache
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\TestCase.AssemblyInfo.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\TestCase.TagHelpers.input.cache
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\TestCase.TagHelpers.output.cache
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\TestCase.RazorCoreGenerate.cache
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AdminUsers\Create.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AdminUsers\Delete.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AdminUsers\Edit.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AdminUsers\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AppointmentUser\Delete.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AppointmentUser\Edit.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\AppointmentUser\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Products\Delete.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Products\Edit.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\ProductTypes\Create.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\ProductTypes\Delete.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\ProductTypes\Edit.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\ProductTypes\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Blog\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Contact\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Guest\AccountInformation1.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Guest\Edit.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Guest\Register.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Guest\RegisterSuccessfull1.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Home\Details.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Info\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Product\Details.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Product\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Shared\_AccountInformation.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Shared\_RegisterUser.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Shared\_UserGuest.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\ShoppingCart\AppointmentConfirmation.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\ShoppingCart\Index.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Guest\Views\Guest\Login1.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_AppointmentCustomerDetails.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_AppointmentProductDetails.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_TableButtonPartial.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\TestCase.RazorTargetAssemblyInfo.cache
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\TestCase.RazorTargetAssemblyInfo.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\TestCase.Views.pdb
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\TestCase.csproj.CopyComplete
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\TestCase.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\TestCase.pdb
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\Razor\Areas\Guest\Views\Guest\AccountInformation1.cshtml.g.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\PagedList.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\bin\Debug\netcoreapp3.0\PagedList.Mvc.dll
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\TestCase.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Quang Tinh\Desktop\WebBanGiay\TestCase11\TestCase\obj\Debug\netcoreapp3.0\TestCase.MvcApplicationPartsAssemblyInfo.cache

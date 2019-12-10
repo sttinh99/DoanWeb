@@ -1,0 +1,66 @@
+﻿@model TestCase.Models.Appointments
+@{
+    ViewData["Title"] = "Edit";
+}
+<style>
+    .p-5.border.rounded {
+        font-size: 18px;
+        color: black;
+    }
+</style>
+<br />
+<h2 class="text-info">Edit Admin User</h2>
+
+<form method="post" asp-action="Delete" style="background-color:#5e7edcab">
+    <div class="p-5 border rounded">
+        <input type="hidden" asp-for="Id" />
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="AppointmentDate">AppointmentDate:</label>
+            </div>
+            <div class="col-5">
+                <input asp-for="AppointmentDate" readonly class="form-control" />
+            </div>
+
+        </div>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="CustomerName">CustomerName:</label>
+            </div>
+            <div class="col-5">
+                <input asp-for="CustomerName" readonly class="form-control" />
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="CustomerPhoneNumber">CustomerPhoneNumber:</label>
+            </div>
+            <div class="col-5">
+                <input asp-for="CustomerPhoneNumber" readonly class="form-control" />
+            </div>
+
+        </div>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="CustomerEmail">CustomerEmail:</label>
+            </div>
+            <div class="col-5">
+                <input asp-for="CustomerEmail" readonly class="form-control" />
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="isConfirmed">isConfirmed:</label>
+            </div>
+            <div class="col-5">
+                <input asp-for="isConfirmed" readonly class="form-control" />
+            </div>
+        </div>
+        <br />
+        <div class="form-group">
+            <input type="submit" class="btn btn-danger" value="Delete" />
+            <a asp-action="Index" class="btn btn-success">Back to List</a>
+        </div>
+    </div>
+</form>
+
